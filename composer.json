@@ -1,0 +1,19 @@
+{
+    "name": "james.xue/laravel-uploads",
+    "description": "upload",
+    "type": "library",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "james.xue",
+            "email": "1527736751@qq.com"
+        }
+    ],
+    "require": {},
+    "version": "0.1",
+    "autoload": {
+        "psr-4": {
+            "James\\Uploads\\": "src/"
+        }
+    }
+}
